@@ -1,0 +1,6 @@
+{
+  "name": "DỊCH THUẬT MANGA CHUYÊN NGHIỆP",
+  "description": "Ứng dụng dịch thuật manga chuyên nghiệp từ file CBZ (Anh - Việt), giữ nguyên định dạng hình ảnh và tối ưu dung lượng xuất bản. Tác giả: Trần Trí Nhân",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
